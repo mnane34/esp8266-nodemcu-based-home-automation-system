@@ -13,11 +13,11 @@
 #define SENSOR D8
 
 /* Blynk Uygulaması için gerekli olan tanımlamalar*/
-char auth[] = "32bxA6kRp3ACAa7dEgZZVxA6VT1Ldem9"; // Token
+char auth[] = "***"; // Token
 
 /* Wifi ayarları için gerekli olan tanımlamalar*/
-char ssid[] = "Redmi"; // Wifi Adı
-char pass[] = "mertcan123"; // Wifi Şifresi
+char ssid[] = "***"; // Wifi Adı
+char pass[] = "***"; // Wifi Şifresi
 
 /* Nesne Tanımlamaları*/
 BlynkTimer timer; // Senkronizasyon Nesnesi
